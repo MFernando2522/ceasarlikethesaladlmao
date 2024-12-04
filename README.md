@@ -1,5 +1,3 @@
-# ceasarlikethesaladlmao
-hiiii mccuen
 
 Step One: Download all files, the HTML, JS, and download.jpg image
 
